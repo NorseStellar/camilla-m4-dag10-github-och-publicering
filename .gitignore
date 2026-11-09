@@ -1,0 +1,18 @@
+
+# Hemliga uppgifter och miljövariabler
+.env
+.env.*
+!.env.example
+
+# Operativsystem
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Tillfälliga filer och loggar
+*.log
+*.tmp
+*.bak
+
+# Personliga VS Code-inställningar
+.vscode/
